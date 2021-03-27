@@ -47,7 +47,6 @@ function App() {
 					justifyContent: 'center',
 					alignItems: 'center',
 					width: '100%',
-					marginTop: '100px',
 				}}
 			>
 				<h1>Engr. Muhammad Bilal Todos App 🔥</h1>
